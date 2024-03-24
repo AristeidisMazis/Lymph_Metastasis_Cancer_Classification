@@ -50,3 +50,7 @@ Accuracy: 96.97%
 * Better pre-processing, targeted in difficult-to-evaluate spots
 * Script to automate binary mask extraction using machine learning
 * Better fine tuning
+
+### Usefull links
+https://openslide.org/
+
