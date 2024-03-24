@@ -18,21 +18,21 @@
 
 ![tain method](https://github.com/AristeidisMazis/Lymph_Metastasis_Cancer_Classification/assets/164747509/068e8649-7894-4b81-8fde-fffc538b61dc)
 
-### *Binary masks should look like this
+#### *Binary masks should look like this
 
 ![Untitled-1](https://github.com/AristeidisMazis/Lymph_Metastasis_Cancer_Classification/assets/164747509/a158e57c-bd77-41aa-a28b-26c7dda5e94d)![Untitled-3](https://github.com/AristeidisMazis/Lymph_Metastasis_Cancer_Classification/assets/164747509/d1d3516b-cc7f-482f-b5af-2c55351a23aa)
 
 ## Deep Learning model
 
-### The model was implemented in Google Colab using TensorFlow and Keras libraries. EfficientNetB0 was used as pretrained model 
+#### The model was implemented in Google Colab using TensorFlow and Keras libraries. EfficientNetB0 was used as pretrained model 
 
-### Results:
+#### Results:
 
-#### For 256x256 patches:
+##### For 256x256 patches:
 
 Accuracy: 95.09%
 
-#### For 512x512 patches:
+##### For 512x512 patches:
 
 Accuracy: 96.97%
 
