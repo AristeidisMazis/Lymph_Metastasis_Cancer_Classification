@@ -38,7 +38,7 @@ Accuracy: 96.97%
 
 ## Heatmap
 
-### A visual illustration to locate cancer in the WSI.
+#### A visual illustration to locate cancer in the WSI.
 
 ![tumor_104_bounding](https://github.com/AristeidisMazis/Lymph_Metastasis_Cancer_Classification/assets/164747509/b1d2e89f-91cd-43a8-bacd-c0ca4c0b9549)![image](https://github.com/AristeidisMazis/Lymph_Metastasis_Cancer_Classification/assets/164747509/40d1f50a-ad3a-428c-b8d1-85003a9bca1b)
 
